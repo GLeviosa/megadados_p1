@@ -1,17 +1,17 @@
 {
     "0": {
         "name": "Megadados",
-        "professor": "F\u00e1bio Jos\u00e9 Ayres",
+        "professor": "Fabio Jose Ayres",
         "notes": [
             "Otimizando bancos de dados",
-            "Um coment\u00e1rio legal"
+            "Um comentario legal"
         ]
     },
     "1": {
-        "name": "Ci\u00eancia dos Dados",
-        "professor": "F\u00e1bio Miranda",
+        "name": "Ciencia dos Dados",
+        "professor": "Fabio Miranda",
         "notes": [
-            "Mat\u00e9ria Top",
+            "Materia topzera",
             "Intro a Machine Learning",
             "Quando as coisas eram mais simples"
         ]
@@ -20,9 +20,9 @@
         "name": "Redes Sociais",
         "professor": "Marcelo Hashimoto",
         "notes": [
-            "Estat\u00edstica with extra steps",
-            "Outro coment\u00e1rio legal",
-            "Charles \u00e9 brabo"
+            "Estatastica with extra steps",
+            "Outro comentario legal",
+            "Charles brabo"
         ]
     }
 }

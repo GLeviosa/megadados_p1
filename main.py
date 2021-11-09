@@ -85,8 +85,6 @@ def show_all():
         "disciplines" : []
     }
     for value in dic.values():
-        print(value)
-        print("-"*15)
         names["disciplines"].append(value["name"])
     return names
 
