@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS db_sql;
+CREATE DATABASE db_sql;
+USE db_sql;
